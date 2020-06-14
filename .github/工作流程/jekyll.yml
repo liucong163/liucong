@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<title>杳桑软件官网</title>
+<style type="text/css">
+.uucc{
+width: 330px;
+height: 150px;
+border: 2px yellow solid;
+background: yellow;
+position: relative;
+top: 15px;}
+</style>
+</head>
+<body style="background-color: rgb(36,154,184);">
+<script>
+function gun(){
+scrollTo(0,10000000);}
+function yun(){
+var text = document.
+getElementById("1643").value;
+if( text == ""){
+alert("请输入正确内容");
+    }
+    else{
+  if( text == "谷歌"|text == "谷歌空间"|text == "谷歌地球"|text == "地球"){
+     document.getElementById("链接一").href="https://android-apps.pp.cn/fs08/2019/11/29/3/106_ab757a894ae8f604f71610f6b360caaf.apk?yingid=web_space&packageid=600862647&md5=75fd205aa5615d9088ea365d072d8c9e&minSDK=14&size=17282329&shortMd5=d8b347606f67926a85b92aaba67d6186&crc32=110443844&did=1ce8c5d45867ed3ab5d2e17a780f0036";
+     document.getElementById("链接一").innerHTML="谷歌空间下载";
+     document.getElementById("链接二").href="http://down-ww2.newasp.net/soft/8/81/com.google.earth_8ae459e4.apk";
+     document.getElementById("链接二").innerHTML="谷歌地球下载";
+     }else if(text == "框架"||text == "免root框架"||text == "虚拟框架"){
+     document.getElementById("链接一").href="http://xzf.197946.com/patrickstardualspace1.apk";
+     document.getElementById("链接一").innerHTML="框架下载(1)";
+     document.getElementById("链接二").href="http://xzc.197746.com/dualspacekunagjia.apk";
+     document.getElementById("链接二").innerHTML="框架下载(2)";
+     }else if(text == "编程软件"|| text == "程序设计软件"||text == "编程"){
+     document.getElementById("链接一").innerHTML="UTF-8 记事本";
+     document.getElementById("链接一").href="https://g.pconline.com.cn/dl/pc/373811.html";
+     document.getElementById("链接二").innerHTML="edit plus";
+     document.getElementById("链接二").href="https://g.pconline.com.cn/dl/pc/413020.html";
+     }else if(text == "修改器"|| text == "外挂"||text == "游戏脚本"){
+     document.getElementById("链接一").innerHTML="GG修改器下载";
+     document.getElementById("链接一").href="https://m.3322.cc/downapp.asp?id=50730";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == "清理"|| text == "垃圾"||text == "垃圾清理"){
+     document.getElementById("链接一").innerHTML="LBE安全大师";
+     document.getElementById("链接一").href="http://download.pc6.com/down/59235/";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+          }else if(text == "音乐剪辑"||text == "音频剪辑"|| text == "剪辑软件"){
+     document.getElementById("链接一").innerHTML="视频剪辑[小熊录屏]";
+     document.getElementById("链接一").href="http://cr2.197946.com/xiaoxionglupingwxtootpjb.apk";
+     document.getElementById("链接二").innerHTML="音频剪辑[合成]";
+     document.getElementById("链接二").href="http://dx10.198174.com/yinyuejianjipojieb.apk";
+     }else if(text == "机型伪装"|| text == "分身"||text == "应用分身"|| text == "多开分身"){
+     document.getElementById("链接一").innerHTML="多开分身";
+     document.getElementById("链接一").href="http://xzc.198424.com/dwkjvippj.apk";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+      }else if(text == "中国象棋"||text == "象棋外挂"|| text =="中国象棋外挂"|| text == "象棋"){
+     document.getElementById("链接一").innerHTML="中国象棋外挂下载";
+     document.getElementById("链接一").href="http://js.xiazaicc.com//android/zhongguoxiangqi_downcc.apk";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == "虚拟机"|| text == "防病毒"||text == "虚拟空间"){
+     document.getElementById("链接一").innerHTML="虚拟机下载";
+     document.getElementById("链接一").href="http://down-ww2.newasp.net/soft/0/99/io.va.exposed_dec757e3.apk";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == "刷赞"|| text == "互赞"||text == "刷赞软件"){
+     document.getElementById("链接一").innerHTML="刷赞助手";
+     document.getElementById("链接一").href="https://www.lanzous.com/tp/i3vp7de";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == "自动点击"|| text == "自动点击器"){
+     document.getElementById("链接一").innerHTML="自动点击器下载";
+     document.getElementById("链接一").href="http://a.downpp.com//apk2/zidongdianjiqipojieban1.3.3.2_2265.com.apk";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == ""|| text == ""||text == ""){
+     document.getElementById("链接一").innerHTML="";
+     document.getElementById("链接一").href="";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }else if(text == ""|| text == ""||text == ""){
+     document.getElementById("链接一").innerHTML="";
+     document.getElementById("链接一").href="";
+     document.getElementById("链接二").innerHTML="";
+     document.getElementById("链接二").href="";
+     }
+    }
+  }
+</script>
+<center><button type="button" onclick="gun()">到达底部</button></center>
+<center><a style="color: rgb(200,166,138)" href="https://m.romzhijia.net/" target="_blank">站长QQ: 3436533165</a></center><from>
+<input type="text/css" id="1643" placeholder="请输入搜索内容" style="width: 240px; height: 30px; border-radius: 70px; position: absolute; left: 20px;"></input>
+<button type="button" onclick="yun()" value="搜索" style="width: 80px; height: 30px; border-radius: 70px; position: relative; left: 264px; top: 3px;">搜索</button></from>
+
+<div class="uucc"><a id="链接一" style="color: red; text-decoration: none;" href="">此处加载搜索的内容</a>
+<br/><a id="链接二" style="color: red; text-decoration: none;" href=""></a>
+<br/><a id="链接三" style="color: red; text-decoration: none;" href=""></a>
+<br/><a id="链接五" style="color: red; text-decoration: none;" href=""></a>
+<br/><a id="0005" style="color: blue; text-decoration: none;" href=""></a></div>
+
+<center><p style="color: rgb(196,210,53);">源码之家，免费下载源代码。</p></center>
+<a href="https://www.mycodes.net/" target="_blank">
+<img src="image/ymzj.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);" target="_blank">虚拟机下载</p></center>
+<a href="http://down-ww2.newasp.net/soft/0/99/io.va.exposed_dec757e3.apk">
+<img src="image/xnj.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53); position: relative; top:15px;font-family:STKaiti;" target="_blank">谷歌地球手机版</p></center>
+<a href="http://down-ww2.newasp.net/soft/8/81/com.google.earth_8ae459e4.apk">
+<img src="image/ggdq.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">谷歌空间 ( VPN )手机版</p></center>
+<a target="_blank" href="https://android-apps.pp.cn/fs08/2019/11/29/3/106_ab757a894ae8f604f71610f6b360caaf.apk?yingid=web_space&packageid=600862647&md5=75fd205aa5615d9088ea365d072d8c9e&minSDK=14&size=17282329&shortMd5=d8b347606f67926a85b92aaba67d6186&crc32=110443844&did=1ce8c5d45867ed3ab5d2e17a780f0036">
+<img src="image/ggkj.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">定时器: 定时让手机打开各种工具或关闭手机版</p></center>
+<a target="_blank" href="https://android-apps.pp.cn/fs08/2019/11/29/3/106_ab757a894ae8f604f71610f6b360caaf.apk?yingid=web_space&packageid=600862647&md5=75fd205aa5615d9088ea365d072d8c9e&minSDK=14&size=17282329&shortMd5=d8b347606f67926a85b92aaba67d6186&crc32=110443844&did=1ce8c5d45867ed3ab5d2e17a780f0036">
+<img src="image/dsq.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">MT管理器手机版</p></center>
+<a target="_blank" href="https://mt.jouyo.cn/MT2.7.2-beta.apk">
+<img src="image/mtglq.png" style="width:350px;height:105px;"></a>
+<center><p style="color: rgb(196,210,53);">免root框架，用于GG修改器手机版</p></center>
+<a target="_blank" href="http://xzf.197946.com/patrickstardualspace1.apk">
+<img src="image/kj2.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">免root框架，用于GG修改器手机版</p></center>
+<a target="_blank" href="http://xzc.197746.com/dualspacekunagjia.apk">
+<img src="image/kj.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">小熊录屏破解版，剪辑合成视频手机版</p></center>
+<a target="_blank" href="http://cr2.197946.com/xiaoxionglupingwxtootpjb.apk">
+<img src="image/xxlp.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">电脑版编程软件</p></center>
+<a target="_blank" href="https://g.pconline.com.cn/dl/pc/413020.html">
+<img src="image/editplus.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">小黑记事本电脑版</p></center>
+<a target="_blank" href="https://g.pconline.com.cn/dl/pc/373811.html">
+<img src="image/xhjsb.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">电脑模拟器下载</p></center>
+<a target="_blank" href="https://www.ldmnq.com/">
+<img src="image/mnq.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">崩溃大陆手机版下载</p></center>
+<a target="_blank" href="http://fxazyx3.zxcmk.com/bengkuidaluhanhua.apk">
+<img src="image/bkdl.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">拍照翻译软件手机版</p></center>
+<a target="_blank" href="http://m.greenxf.com/d/9c341BATDxHVteVuYVrWGxgVAl8cgUDCYSsQIcJc9DB9rFvYhdXeGhbZHI8Oa3oTBw">
+<img src="image/pzfy.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">录音专家下载</p></center>
+<a target="_blank" href="https://mobile.baidu.com/item?docid=26634139&source=aladdin%40wise_ex_app_33%40item%401&ala=wise_ex_app%40strong%40%E9%9F%B3%E9%A2%91%E5%90%88%E6%88%90%E8%BD%AF%E4%BB%B6&ala=app_mobile_ex_01&from=1022306r">
+<img src="image/lyzj.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">变声器软件手机版</p></center>
+<a target="_blank" href="http://a.downpp.com//anzhuo/qqmengmeizibianshengqi_2265.com.apk">
+<img src="image/bsq.png" style="width:350px;height:105px;">
+</a>
+<center><p style="color: rgb(196,210,53);">游戏帧数助推器</p></center>
+<a target="_blank" href="http://www.lanzous.com/i344rm2je">
+<img src="image/zy.png" 
